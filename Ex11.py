@@ -5,4 +5,3 @@ if __name__ == '__main__':
     while high_nr == max(arr):
         arr.remove(high_nr)
     print(max(arr))
-
