@@ -5,3 +5,4 @@ def count_substring(string, sub_string):
         if string[letter_id:word_index] == sub_string:
             output +=1
     return output
+
